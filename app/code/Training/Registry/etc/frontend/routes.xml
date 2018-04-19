@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<config xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+        xsi:noNamespaceSchemaLocation="../../../../../../lib/internal/Magento/Framework/App/e
+tc/routes.xsd">
+    <router id="standard">
+        <route id="training_repository" frontName="training_repository">
+        </route>
+        <module name="Training_Repository"/>
+    </router>
+</config>

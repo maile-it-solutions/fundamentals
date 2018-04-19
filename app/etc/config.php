@@ -140,6 +140,5 @@ return array (
     'Shopial_Facebook' => 1,
     'Temando_Shipping' => 1,
     'Training_Registry' => 1,
-    'Unit5_ProductList' => 1,
   ),
 );
